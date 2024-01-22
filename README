@@ -1,0 +1,8 @@
+# PackeProbeAnalyzer
+
+This is to enable the exploratory analysis of over 10 GB of pcaps.
+
+
+runtsharkalot.sh <directory location> to gather data into csv file
+
+python3 packetprobe.py <output csv file> to analyze the output file
